@@ -21,3 +21,9 @@ Las gestión de los recursos de cada persona es diferente, pero todos tienen un 
 
 ## Análisis de gastos 📊
 - Gráficos del balance de gastaos e ingresos
+
+# Tecnologías
+- JavaScript
+- Visual Studio Code
+- Node.js
+- MongoDB
