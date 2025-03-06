@@ -11,13 +11,13 @@ Las gestión de los recursos de cada persona es diferente, pero todos tienen un 
 # Modulos 🟪🟥🟧
 
 ## Autenticación de seguridad 🔐
-Registro e inicio de sesión con credenciales seguras
-Opción de recuperación de contraseña
+- Registro e inicio de sesión con credenciales seguras
+- Opción de recuperación de contraseña
 
 ## Gestión de transacciones 💸
-Registro de ingresos y gastos
-Clasificación automática en categorías (alimentos, entretenimiento, transporte, etc.)
-Filtrado y búsqueda de transacciones
+- Registro de ingresos y gastos
+- Clasificación automática en categorías (alimentos, entretenimiento, transporte, etc.)
+- Filtrado y búsqueda de transacciones
 
 ## Análisis de gastos 📊
-Generación de gráficos de ingresos y gastos por mes.
+- Generación de gráficos de ingresos y gastos por mes.
