@@ -5,8 +5,8 @@ Las gestión de los recursos de cada persona es diferente, pero todos tienen un 
 
 ## Integrantes del equipo
 
-- [Harold David Durán Virguez](https://github.com/Edwinahhh)
-- [Edwin David González Avendaño](https://github.com/Hardur17)
+- [Harold David Durán Virguez](https://github.com/Hardur17)
+- [Edwin David González Avendaño](https://github.com/Edwinahhh)
 
 ## Modulos
 
