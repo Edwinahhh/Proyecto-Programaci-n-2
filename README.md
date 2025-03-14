@@ -32,7 +32,7 @@ Crear una empresa desde cero es algo complicado y más si no se tiene un control
 - Node.js
 - MongoDB
 
-# Cronograma.
+# Cronograma. 📅
 
 | Semana   | Harold | Edwin  |
 |----------|--------|--------|
