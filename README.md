@@ -1,5 +1,5 @@
 
-# Gestor financiero para empresas pequeñas o emprendimientos. Ganancias, gastos y balances generales, útil y fácil de usar. 🏦🪙 
+# Gestor financiero para empresas pequeñas o emprendimientos. Ganancias, gastos y balances generales. 🏦🪙 
 
 Crear una empresa desde cero es algo complicado y más si no se tiene un control claro sobre el balance que genera un emprendimiento, ser un empresario pequeño en Colombia conlleva ciertos desafíos, la idea de este software es ayudar a las pequeñas empresas a llevar mejor su control de gastos y hacer mas ameno su camino en el emprendimiento.
 
@@ -31,3 +31,21 @@ Crear una empresa desde cero es algo complicado y más si no se tiene un control
 - Visual Studio Code
 - Node.js
 - MongoDB
+
+- # Cronograma.
+- +---------------------------+
+|           Avances           |
++-----------+--------+--------+
+| Semana 1  |                 |
++-----------+--------+--------+
+| Semana 2  |                 |
++-----------+--------+--------+
+| Semana 3  |                 |
++-----------+--------+--------+
+| Semana 4  |                 |
++-----------+--------+--------+
+| Semana 5  |                 |
++-----------+--------+--------+
+| Semana 6  |                 |
++-----------+--------+--------+
+
