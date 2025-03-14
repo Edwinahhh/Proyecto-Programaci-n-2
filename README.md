@@ -1,28 +1,32 @@
 
-# Administrador de finanzas empresarial 🏦🪙 
+# Gestor financiero para empresas pequeñas o emprendimientos. Ganancias, gastos y balances generales, útil y fácil de usar. 🏦🪙 
 
-Las gestión de los recursos de cada persona es diferente, pero todos tienen un problema en común, tienen dificultades para organizar sus gastos e ingresos, esto deriva en una mala administración de su dinero, sin registros claros de sus movimientos esto puede empeorar.
+Crear una empresa desde cero es algo complicado y más si no se tiene un control claro sobre el balance que genera un emprendimiento, ser un empresario pequeño en Colombia conlleva ciertos desafíos, la idea de este software es ayudar a las pequeñas empresas a llevar mejor su control de gastos y hacer mas ameno su camino en el emprendimiento.
 
-# Integrantes del equipo 🧑‍💻🔧
+# Integrantes del equipo. 🧑‍💻🔧
 
 - [Harold David Durán Virguez](https://github.com/Hardur17)
 - [Edwin David González Avendaño](https://github.com/Edwinahhh)
 
-# Modulos 🟪🟥🟧
+# Modulos. 🟪🟥🟧
 
-## Autenticación de seguridad 🔐
-- Registro e inicio de sesión de manera segura
-- Recuperación de contraseñas
+## Gestión de ingresos y gastos. 💸
+- Opciones para que el usuario pueda ingresar los ingresos y gastos (Fecha, tipo y cantidad).
+- Opciones de filtrado para separar ingresos y gastos.
 
-## Gestión de transacciones 💸
-- Clasificación de datos por categoría
-- Registros de ingresos y gastos
-- Busquedas y flitros de transacciones
+## Visualización de balance. 📈
+- Posibilidad para crear presupuestos con límites.
+- Avisar al usuario cuándo un gasto se exceda de su límite.
 
-## Análisis de gastos 📊
-- Gráficos del balance de gastaos e ingresos
+## Análisis de gastos. 📊
+- Gráficos del balance de gastos e ingresos.
+- Balance económico básico.
 
-# Tecnologías
+## Seguridad y roles. 🔐
+- Acceder mediante un usuario y un rol (Administrador o usuario).
+- Permisos según el tipo de rol.
+
+# Tecnologías. 💻
 - JavaScript
 - Visual Studio Code
 - Node.js
